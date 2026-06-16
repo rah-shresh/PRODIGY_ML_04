@@ -1,0 +1,8 @@
+frame_01_01_0006.png -> Palm
+frame_01_01_0008.png -> Palm
+frame_01_01_0010.png -> Palm
+frame_01_01_0009.png -> Palm
+frame_01_01_0003.png -> Palm
+frame_01_01_0003.png -> Palm
+frame_01_01_0008.png -> Palm
+frame_00_03_0013.png -> Fist
